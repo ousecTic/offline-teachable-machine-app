@@ -1,5 +1,5 @@
 {
-  "appId": "com.example.app",
+  "appId": "offline.image.classifier.app",
   "appName": "offline-image-classifier",
   "webDir": "www"
 }
